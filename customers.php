@@ -18,11 +18,17 @@ if(isset($_POST['submitImport']) && $_FILES['importFile']['size'] >0) {
 
     //$customersXML->customer[0]->name;
 
+}elseif(isset($_POST['deleteUser'])){
+    try{
+        $db->deleteUser($_POST['deleteUser']);
+    }catch(Exception $exception){
+        echo $exception->getMessage();
+    }
 }
+
 try{
     $stmt = $db->selectallUser();
     $alluser = $stmt->fetchAll(PDO::FETCH_OBJ);
-
 
 }catch (Exception $exception){
     echo $exception->getMessage();
