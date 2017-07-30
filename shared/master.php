@@ -39,9 +39,13 @@
             </div>
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav">
-                    <li><a href="customers.php">Customers</a></li>
                     <li><a href="products.php">Products</a></li>
-                    <li><a href="ratings.php">Ratings</a></li>
+                    <li><a href="customers.php">Customers</a></li>
+                    <?php
+                    if (isset($_SESSION['started'])) {
+                        echo "<li><a href='ratings.php'>Ratings</a></li>";
+                    }
+                    ?>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
 
@@ -56,7 +60,7 @@
                             </button>
                         </form>";
                         } else {
-                            echo "<li ><a href = \"login.php\" >Login</a ></li>";
+                            echo "<li ><a href = \"login.php\" > Login</a ></li>";
                         }?>
                     </li>
                 </ul>

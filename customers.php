@@ -1,5 +1,5 @@
 <?php
-
+include_once './shared/isLoggedIn.php';
 require_once('./database/CustomerDatabase.php');
 $db = new CustomerDatabase();
 
