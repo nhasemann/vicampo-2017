@@ -29,6 +29,6 @@ Log into the web-application with the test-user (test) and password (123).
 13:00 - 14:00 Create HTML-Templates
 14:00 - 14:30 Implement XML-import functionality
 14:30 - 15:30 Implement Rating functionality
-14:30 - 17:00 Testing & Documentation
+15:30 - 17:00 Testing & Documentation
 ```
 
