@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+	<product>
+		<id>35759</id>
+		<sku>DE-1049-60</sku>
+		<name>Weißer Burgunder "Vom Vulkan" trocken 2016</name>
+		<image_url_small>
+			http://assets0.static-vicampo.net/media/cache/10000/small_image/400x/crop_bottom/400x520/353c25da18//f/r/freiherr-von-gleichenstein-weisser-burgunder-vom-vulkan-trocken-etikett.png
+		</image_url_small>
+		<image_url>
+			http://assets0.static-vicampo.net/new-media/cache/10000/catalog/image/250x720/box/x720/b3c4a47b64//f/r/freiherr-von-gleichenstein-weisser-burgunder-vom-vulkan-trocken-flasche.png
+		</image_url>
+		<wine_year>2016</wine_year>
+		<manufacturer_name>Freiherr von Gleichenstein</manufacturer_name>
+	</product>
+	<product>
+		<id>40471</id>
+		<sku>DE-8159</sku>
+		<name>Rosé Sophie trocken 2016</name>
+		<image_url_small>
+			http://assets0.static-vicampo.net/media/cache/10000/small_image/400x/crop_bottom/400x520/353c25da18//d/a/dautel-rose-sophie-trocken-2016-etikett_5950ba7912f33.png
+		</image_url_small>
+		<image_url>
+			http://assets0.static-vicampo.net/new-media/cache/10000/catalog/image/250x720/box/x720/b3c4a47b64//d/a/dautel-rose-sophie-trocken-2016-flasche_5950ba7921c29.png
+		</image_url>
+		<wine_year>2016</wine_year>
+		<manufacturer_name>Dautel</manufacturer_name>
+	</product>
+	<product>
+		<id>40527</id>
+		<sku>DE-8162</sku>
+		<name>Sauvignon Blanc Signature trocken 2016</name>
+		<image_url_small>
+			http://assets0.static-vicampo.net/media/cache/10000/small_image/400x/crop_bottom/400x520/353c25da18//k/e/kesselring-signature-sauvignon-blanc-trocken-2016-etikett.png
+		</image_url_small>
+		<image_url>
+			http://assets0.static-vicampo.net/new-media/cache/10000/catalog/image/250x720/box/x720/b3c4a47b64//k/e/kesselring-signature-sauvignon-blanc-trocken-2016-flasche.png
+		</image_url>
+		<manufacturer_name>Kesselring</manufacturer_name>
+	</product>
+	<product>
+		<id>41318</id>
+		<sku>DE-8182</sku>
+		<name>MC Sauvignon Blanc trocken 2016</name>
+		<image_url_small>
+			http://assets0.static-vicampo.net/media/cache/10000/small_image/400x/crop_bottom/400x520/353c25da18//m/u/mueller-catoir-sauvignon-blanc-mc-trocken-2016-etikett_5947cb305ba4a.png
+		</image_url_small>
+		<image_url>
+			http://assets0.static-vicampo.net/new-media/cache/10000/catalog/image/250x720/box/x720/b3c4a47b64//m/u/mueller-catoir-sauvignon-blanc-mc-trocken-2016-flasche_5947cb3080859.png
+		</image_url>
+		<wine_year>2016</wine_year>
+		<manufacturer_name>Müller-Catoir</manufacturer_name>
+	</product>
+	<product>
+		<id>41336</id>
+		<sku>DE-8184</sku>
+		<name>MC Spätburgunder Rosé trocken 2016</name>
+		<image_url_small>
+			http://assets0.static-vicampo.net/media/cache/10000/small_image/400x/crop_bottom/400x520/353c25da18//m/u/mueller-catoir-spaetburgunder-rose-trocken-2016-etikett_5947cae7b13e0.png
+		</image_url_small>
+		<image_url>
+			http://assets0.static-vicampo.net/new-media/cache/10000/catalog/image/250x720/box/x720/b3c4a47b64//m/u/mueller-catoir-spaetburgunder-rose-trocken-2016-flasche_5947cae7d168b.png
+		</image_url>
+		<wine_year>2016</wine_year>
+		<manufacturer_name>Müller-Catoir</manufacturer_name>
+	</product>
+	<product>
+		<id>41391</id>
+		<sku>DE-8188</sku>
+		<name>Tradition Weißburgunder trocken 2016</name>
+		<image_url_small>
+			http://assets0.static-vicampo.net/media/cache/10000/small_image/400x/crop_bottom/400x520/353c25da18//m/a/markgraf-von-baden-tradition-weissburgunder-trocken-2016-etikett_59479baae61d6.png
+		</image_url_small>
+		<image_url>
+			http://assets0.static-vicampo.net/new-media/cache/10000/catalog/image/250x720/box/x720/b3c4a47b64//m/a/markgraf-von-baden-tradition-weissburgunder-trocken-2016-flasche_59479bab05626.png
+		</image_url>
+		<wine_year>2016</wine_year>
+		<manufacturer_name>Markgraf von Baden</manufacturer_name>
+	</product>
+	<product>
+		<id>41413</id>
+		<sku>DE-8190</sku>
+		<name>Meisterstreich Sauvignon Blanc trocken 2016</name>
+		<image_url_small>
+			http://assets0.static-vicampo.net/media/cache/10000/small_image/400x/crop_bottom/400x520/353c25da18//k/l/klundt-meisterstreich-sauvignon-blanc-trocken-2016-etikett.png
+		</image_url_small>
+		<image_url>
+			http://assets0.static-vicampo.net/new-media/cache/10000/catalog/image/250x720/box/x720/b3c4a47b64//k/l/klundt-meisterstreich-sauvignon-blanc-trocken-2016-flasche.png
+		</image_url>
+		<wine_year>2016</wine_year>
+		<manufacturer_name>Klundt</manufacturer_name>
+	</product>
+	<product>
+		<id>41495</id>
+		<sku>DE-8189</sku>
+		<name>Weißer Burgunder trocken 2016</name>
+		<image_url_small>
+			http://assets0.static-vicampo.net/media/cache/10000/small_image/400x/crop_bottom/400x520/353c25da18//h/a/hauck-sonnenhof-weisser-burgunder-trocken-2016-etikett.png
+		</image_url_small>
+		<image_url>
+			http://assets0.static-vicampo.net/new-media/cache/10000/catalog/image/250x720/box/x720/b3c4a47b64//h/a/hauck-sonnenhof-weisser-burgunder-trocken-2016-flaschen.png
+		</image_url>
+		<wine_year>2016</wine_year>
+		<manufacturer_name>Hauck Sonnenhof</manufacturer_name>
+	</product>
+	<product>
+		<id>41505</id>
+		<sku>DE-8194</sku>
+		<name>Riesling Lisbeth trocken 2016</name>
+		<image_url_small>
+			http://assets0.static-vicampo.net/media/cache/10000/small_image/400x/crop_bottom/400x520/353c25da18//a/u/august-kesseler-lisbeth-rheingau-riesling-2016-etikett.png
+		</image_url_small>
+		<image_url>
+			http://assets0.static-vicampo.net/new-media/cache/10000/catalog/image/250x720/box/x720/b3c4a47b64//a/u/august-kesseler-lisbeth-rheingau-riesling-2016-flasche.png
+		</image_url>
+		<wine_year>2016</wine_year>
+		<manufacturer_name>August Kesseler</manufacturer_name>
+	</product>
+</products>

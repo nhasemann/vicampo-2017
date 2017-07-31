@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customers>
+  <customer>
+    <name>Ihre Weinhandlung online</name>
+    <username>online</username>
+    <password>1234</password>
+  </customer>
+  <customer>
+    <name>Le Bonheur Weine &amp; Feinkost</name>
+    <username>bonheur</username>
+    <password>asdf</password>
+  </customer>
+  <customer>
+    <name>Lenau Weinhandlung</name>
+    <username>lenau</username>
+    <password>123asdf</password>
+  </customer>
+</customers>
