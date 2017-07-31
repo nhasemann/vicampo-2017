@@ -4,21 +4,9 @@
 
 Step 1:
 
-You have to setup the config-File which is not included in this project. If you use a program like XAMPP a possible setup could be:
-
-```
-define('DB_HOST', "mysql:host=localhost;");
-define('DB_NAME', "dbname=vicampo");
-define('DB_USER', "root");
-define('DB_PASSWORD', "");
-```
-Now you have to store this file (config.php) in the directory "shared".
+We have to create the database tables (customers, products and the relation ratings). Look at the sql-file which is filed in the project.
 
 Step 2:
-
-Then we have to create the database tables (customers, products and the relation ratings). Look at the sql-file which is filed in the project.
-
-Step 3:
 
 Log into the web-application with the test-user (test) and password (123).
 
